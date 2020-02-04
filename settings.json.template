@@ -100,7 +100,7 @@
   //default market is loaded by default and determines last price in header
   "markets": {
     "coin": "JBS",
-    "exchange": "BTC",
+    "exchange": "SGB",
     "enabled": ["bittrex"],
     "cryptopia_id": "1658",
     "ccex_key" : "Get-Your-Own-Key",
